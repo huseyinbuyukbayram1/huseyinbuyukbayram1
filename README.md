@@ -13,7 +13,7 @@ I build my projects with AI coding tools. I direct the work, test the results an
 
 ## Projects
 
-- [Attar](https://github.com/huseyinbuyukbayram1/attar): a cozy perfume-mixing puzzle game built with TypeScript and Phaser 3 for a game jam. [Play it on itch.io](https://huseyinbuyukbayram1.itch.io/attar)
+- [Attar](https://github.com/huseyinbuyukbayram1/attar): a cozy perfume-mixing puzzle game built with TypeScript and Phaser 3 for a game jam. [Play it on itch.io](https://huseyinbuyukbayram.itch.io/attar)
 - [Off-Grid Solar Sizing Tool](https://github.com/huseyinbuyukbayram1/offgrid-solar): Next.js + FastAPI web app that sizes solar and battery systems from your appliances and location, with a PDF report. My university capstone project.
 - Halkbank IT Operations internship (March to June 2026): I built six internal tools, including an SMS anomaly analysis tool that uses a local LLM. The code is private because it belongs to the bank.
 
